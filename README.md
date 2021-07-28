@@ -18,6 +18,6 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 9月9号 |    |  |  
+| 9月9号 |  哈斯巴根 |  |  
 | 9月23号 | 滕相斌  | Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession  |  
 
