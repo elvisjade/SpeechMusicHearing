@@ -17,7 +17,7 @@
 ## 日程安排
 |日期 | 报告人 | 文章名字或报告信息|
 | :---: | :---: | :---: | 
-| 9月9号 |  哈斯巴根 |  |  
+| 9月9号 | 李吉星  | Selective cortical representation of attended speaker in multi-talker speech perception  | 
 | 9月23号 | 滕相斌  | Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession  |  
 | 10月7号 |  孟庆林 |  |  
-| 11月4号 | 李吉星  | Selective cortical representation of attended speaker in multi-talker speech perception  |  
+| 11月4号 | 哈斯巴根  |   |  
