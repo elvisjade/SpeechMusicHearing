@@ -19,4 +19,4 @@
 | :---: | :---: | :---: | 
 | 9月9号 |  哈斯巴根 |  |  
 | 9月23号 | 滕相斌  | Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession  |  
-
+| 11月4号 | 李吉星  | Selective cortical representation of attended speaker in multi-talker speech perception  |  
