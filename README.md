@@ -20,7 +20,5 @@
 | 9月9号 | 李吉星  | Selective cortical representation of attended speaker in multi-talker speech perception  | 
 | 9月23号 | 滕相斌  | Segmenting and Predicting Musical Phrase Structure Exploits Neural Gain Modulation and Phase Precession  |  
 | 10月7号 |  孟庆林 |journal club|  
-| 11月4号 | 苏雅青  |journal club :
-Hamilton, Liberty S., et al. "Parallel and distributed encoding of speech across human auditory cortex." Cell 184.18 (2021): 4626-4639.
-van Bree, Sander, et al. "Sustained neural rhythms reveal endogenous oscillations supporting speech perception." PLoS biology 19.2 (2021): e3001142.|  
+| 11月4号 | 苏雅青  |journal club|  
 | 11月18号 | 哈斯巴根  |   |  
